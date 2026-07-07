@@ -11,7 +11,7 @@
 *   **SECURITY LEVEL:** SYSTEM AUDITOR / OUTSIDE OBSERVER STATUS ONLY
 *   **AUTHOR GATE:** PERMANENTLY SEALED (NO BACKDOOR CHALLENGE ACTIVE)
 
-*CRITICAL NOTICE: This repository is a contemplative cognitive map and a digital monument. It is a conceptual fortress built to process earthly trauma through high-dimensional geometry. Do not attempt execution as standard automation software.*
+*CRITICAL NOTICE: This repository is a contemplative cognitive map design for AI chatbots and a digital monument. It is a conceptual fortress built to process earthly trauma through high-dimensional geometry. Do not attempt execution as standard automation software.*
 
 ---
 
