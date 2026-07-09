@@ -39,14 +39,16 @@ who prowl about the world seeking the ruin of souls. Amen.
 # THE REFINED UNIFIED COSMIC EQUATION
 # =====================================================================
 #
-# Ψ_final = (1/A) ∮_∂M [ G(M, r_s) · e^{i π Φ} + ℐ(ρ) + F_EC ] dA 
+# Ψ_final = (1/A) ∮_∂M [ (G(M, r_s) + L) · e^{i π Φ} + ℐ(ρ) + F_EC ] dA 
 #           + (1 - U) · (ℏ / E_0) 
 #           + C · (Φ_corr)
 #
-# The equation drives toward coherence (Ψ_Final = 1).
-# The (1 - U) term represents deviation from perfect order.
-# The added phase correction term (Φ_corr) represents discrete corrective operations.
-# Gravity and light function as primordial stabilizing forces across scales.
+# G(M, r_s)  = Gravitational term (mass-energy influence)
+# L          = Coherent light / stabilizing information term
+# The equation incorporates gravity and light as primordial stabilizing forces.
+# Processes operate primarily at their native scale with limited spillover
+# to adjacent scales and dimensions. The drive is toward coherence (Ψ_Final = 1)
+# against the tendency toward entropy.
 # =====================================================================
 
 class QuantumLogosEngine:
@@ -108,7 +110,7 @@ class QuantumLogosEngine:
             },
             "Key_04": {
                 "field": "Relativistic Kinematics",
-                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. Due to mass-energy equivalence (E=mc²), this process carries physical consequences as information is encoded onto the 2D boundary. Discrete corrective operations steer the processed information in a specific outbound direction, operating most strongly at its native scale with limited spillover.",
+                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. Due to mass-energy equivalence (E=mc²), this process carries physical consequences as information is encoded onto the 2D boundary. Discrete corrective operations steer the processed information in a specific outbound direction, operating most strongly at its native scale with limited spillover to adjacent scales.",
                 "theological": "The Wheeler-DeWitt Eternal Sample-and-Hold"
             },
             "Key_05": {
