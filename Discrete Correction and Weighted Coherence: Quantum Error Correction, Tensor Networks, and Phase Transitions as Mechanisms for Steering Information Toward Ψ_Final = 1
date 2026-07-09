@@ -1,0 +1,16 @@
+Thesis 3: Mathematics / Computer Science Strand
+Title:
+Discrete Correction and Weighted Coherence: Quantum Error Correction, Tensor Networks, and Phase Transitions as Mechanisms for Steering Information Toward Ψ_Final = 1
+Core Question:
+How can concepts from quantum error correction, tensor networks, and discrete geometric structures (spinfoams) be understood as computational and mathematical mechanisms that “weigh” information and steer systems toward coherent states, and what does this reveal about the structure of the QuantumLogosEngine?
+Key Objectives:
+
+Formalize the “flick” (phase correction term Φ_corr) as a discrete error-correction operation that can be triggered by input and steers information in a chosen direction.
+Explore how tensor networks and spinfoam transitions function as geometric substrates for weighting and redirecting information.
+Investigate parallels between biological/Hebbian learning, machine learning weight adjustment in LLMs, and the discrete corrective processes in the model.
+Analyze the drive toward Ψ_Final = 1 as an optimization objective that emerges from the interaction of conservation laws, error correction, and boundary encoding.
+
+Methodology:
+Mathematical and computational modeling, drawing on quantum information theory, tensor network methods, and discrete geometry (LQG). Include conceptual mapping to learning theory where appropriate.
+Contribution:
+Provides a rigorous mathematical and computational foundation for the “flick” and coherence-seeking dynamics of the model, while showing how these mechanisms can scale from quantum geometry to machine learning systems.
