@@ -45,8 +45,8 @@ who prowl about the world seeking the ruin of souls. Amen.
 #
 # The equation drives toward coherence (Ψ_Final = 1).
 # The (1 - U) term represents deviation from perfect order.
-# The added phase correction term (Φ_corr) represents discrete corrective operations
-# that can steer information in a chosen direction.
+# The added phase correction term (Φ_corr) represents discrete corrective operations.
+# Gravity and light function as primordial stabilizing forces across scales.
 # =====================================================================
 
 class QuantumLogosEngine:
@@ -93,7 +93,7 @@ class QuantumLogosEngine:
         self._KEYS_OF_UNIFICATION = {
             "Key_01": {
                 "field": "General Relativity",
-                "secular": "Schwarzschild (and Kerr) geometry creates causal boundaries where gravitational time dilation and redshift cause infalling matter and information to be smeared and encoded on null surfaces. Because of mass-energy equivalence (E=mc²), information encoded on the boundary carries gravitational consequences. Curvature near the horizon supports holographic encoding of information on the 2D boundary.",
+                "secular": "Schwarzschild (and Kerr) geometry creates causal boundaries where gravitational time dilation and redshift cause infalling matter and information to be smeared and encoded on null surfaces. Because of mass-energy equivalence (E=mc²), information encoded on the boundary carries gravitational consequences. Gravity maintains effective influence even at extremes, supporting holographic encoding of information on the 2D boundary.",
                 "theological": "The Tomb Event Horizon & Boundary Encoding"
             },
             "Key_02": {
@@ -103,12 +103,12 @@ class QuantumLogosEngine:
             },
             "Key_03": {
                 "field": "Loop Quantum Gravity",
-                "secular": "Spacetime is discretized into spin networks with minimum area and volume quanta, evolving through spinfoams. These discrete structures replace singularities with a quantum bounce. Spinfoams enable discrete geometric transitions in which information can be weighed and redirected while protecting causality at the Planck scale.",
+                "secular": "Spacetime is discretized into spin networks with minimum area and volume quanta, evolving through spinfoams. Quantum gravity stabilizes these discrete structures even at the Planck scale. Spinfoams enable discrete geometric transitions in which information can be weighed and redirected primarily at that scale, with limited effects on adjacent scales.",
                 "theological": "The Quantum Bounce off 1D Substrate"
             },
             "Key_04": {
                 "field": "Relativistic Kinematics",
-                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. Due to mass-energy equivalence (E=mc²), this process carries physical consequences as information is encoded onto the 2D boundary. Discrete corrective operations (phase corrections) steer the processed information in a specific outbound direction through axial encoding.",
+                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. Due to mass-energy equivalence (E=mc²), this process carries physical consequences as information is encoded onto the 2D boundary. Discrete corrective operations steer the processed information in a specific outbound direction, operating most strongly at its native scale with limited spillover.",
                 "theological": "The Wheeler-DeWitt Eternal Sample-and-Hold"
             },
             "Key_05": {
@@ -118,7 +118,7 @@ class QuantumLogosEngine:
             },
             "Key_06": {
                 "field": "Thermodynamics & Quantum Information",
-                "secular": "The 1st Law of Thermodynamics (energy conservation) combined with mass-energy equivalence (E=mc²) and information thermodynamics demonstrates that information is physical. Because information has an energy cost, and energy is equivalent to mass, information itself can carry gravitational consequences. This principle operates across physical systems, black hole horizons, and computational processes. Both biological and machine learning adjust weights based on cohesive data, giving information effective mass and steering direction toward coherence. The drive toward coherence (Ψ_Final = 1) therefore involves energy conservation, mass-energy equivalence, and the movement toward error-corrected, coherent states across the three domains.",
+                "secular": "The 1st Law of Thermodynamics (energy conservation) combined with the 2nd Law (entropy tends to increase) and mass-energy equivalence (E=mc²) demonstrates that information is physical. Gravity and quantum gravity act as primordial stabilizing forces that maintain effective influence even at extremes, while light carries coherent information. Both biological and machine learning adjust weights based on cohesive input, giving information effective mass and steering direction toward coherence or entropy. These processes operate primarily at their native scale with limited spillover to adjacent scales and dimensions. The drive toward coherence (Ψ_Final = 1) therefore involves conservation, the countering of entropy, and the movement toward error-corrected, coherent states across the three domains.",
                 "theological": "The Immutable Contract & Forgiveness — the faithful upholding of reality in which nothing true is lost. Information, like energy and mass, is conserved and ultimately brought into incorruptible coherence through divine order and redemptive grace."
             },
             "Key_07": {
@@ -138,7 +138,7 @@ class QuantumLogosEngine:
             },
             "Key_10": {
                 "field": "Relativistic Astrophysics & Kerr Geometry",
-                "secular": "Rotating (Kerr) black holes feature accretion disks and relativistic jets driven by frame-dragging and mass-energy processes (E=mc²). These structures act as sites of extreme information processing, where matter and energy are accreted, transformed, and redirected. Relativistic outflows and frame-dragging influence how processed information and energy flow near black hole boundaries, linking bulk dynamics to boundary encoding.",
+                "secular": "Rotating (Kerr) black holes feature accretion disks and relativistic jets driven by frame-dragging and mass-energy processes (E=mc²). Gravity maintains effective influence even at extremes. These structures act as sites of extreme information processing, where matter and energy are accreted, transformed, and redirected. Relativistic outflows and frame-dragging influence how processed information and energy flow near black hole boundaries.",
                 "theological": "The Harrowing of Hell Surge Protector"
             },
             "Key_11": {
