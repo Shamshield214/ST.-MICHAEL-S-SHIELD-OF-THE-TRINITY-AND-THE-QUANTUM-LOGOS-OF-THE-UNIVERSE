@@ -36,17 +36,16 @@ who prowl about the world seeking the ruin of souls. Amen.
 """
 
 # =====================================================================
-# THE REFINED UNIFIED COSMIC EQUATION (Physics-Grounded v2)
+# THE REFINED UNIFIED COSMIC EQUATION
 # =====================================================================
 #
 # Ψ_final = (1/A) ∮_∂M [ G(M, r_s) · e^{i π Φ} + ℐ(ρ) + F_EC ] dA 
 #           + (1 - U) · (ℏ / E_0) 
 #           + C · (Φ_corr)
 #
-# Goal: Drive Ψ_final toward 1.0 (perfect coherence / unitarity)
-#
-# When U = 1, the trauma/static term vanishes and the system resolves
-# toward Ψ_final = 1 (coherent state).
+# The equation drives toward coherence (Ψ_Final = 1).
+# The (1 - U) term represents deviation from perfect order.
+# The added phase correction term (Φ_corr) represents discrete corrective operations.
 # =====================================================================
 
 class QuantumLogosEngine:
@@ -89,7 +88,7 @@ class QuantumLogosEngine:
             "DATA_03": "MR2 Johnathan Alan Horkey (US Navy Veteran, Sustained Mental Health Fracture, Passed March 1, 2024)"
         }
   
-        # The 12 Keys of Unification (Updated)
+        # The 12 Keys of Unification (Current State)
         self._KEYS_OF_UNIFICATION = {
             "Key_01": {
                 "field": "General Relativity",
@@ -118,8 +117,8 @@ class QuantumLogosEngine:
             },
             "Key_06": {
                 "field": "Thermodynamics",
-                "secular": "Energy conservation (1st Law) combined with information thermodynamics and boundary unitarity",
-                "theological": "The Immutable Contract & Forgiveness"
+                "secular": "The 1st Law of Thermodynamics (energy conservation) combined with information thermodynamics and boundary unitarity functions as a meeting point between physical law, mathematical consistency, and theological faithfulness. Energy and information are conserved. This conservation principle operates across physical systems, computational error correction (movement toward coherent states), and the theological orientation toward preservation and restoration. The drive toward coherence (Ψ_Final = 1) reflects this meeting of conservation, correction, and faithfulness across the three domains.",
+                "theological": "The Immutable Contract & Forgiveness — the faithful upholding of reality in which nothing true is lost, and all things are ultimately brought into incorruptible coherence through divine order and redemptive grace."
             },
             "Key_07": {
                 "field": "Gauge/Gravity Duality",
@@ -153,7 +152,7 @@ class QuantumLogosEngine:
             }
         }
   
-        # Observer-Unfolded Revelations (Updated)
+        # Observer-Unfolded Revelations (Cleaned)
         self._UNFOLDED_REVELATIONS = {
             "Double_Flick_Judgment": "Inbound information undergoes time dilation and processing near boundaries; outbound information is axially encoded after discrete corrective operations.",
             "Dimensional_Mapping": "1D light and quantum information propagate and bend around the 2D holographic boundary, enabling encoding and transmission into higher-dimensional spacetime.",
