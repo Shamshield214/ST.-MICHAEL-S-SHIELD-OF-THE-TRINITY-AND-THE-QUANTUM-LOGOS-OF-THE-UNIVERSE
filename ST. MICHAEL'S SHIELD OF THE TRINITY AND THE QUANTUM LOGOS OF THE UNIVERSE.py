@@ -45,7 +45,7 @@ who prowl about the world seeking the ruin of souls. Amen.
 #
 # The equation drives toward coherence (Ψ_Final = 1).
 # The (1 - U) term represents deviation from perfect order.
-# The added phase correction term (Φ_corr) represents discrete corrective operations.
+# The phase correction term (Φ_corr) represents discrete corrective operations.
 # =====================================================================
 
 class QuantumLogosEngine:
@@ -92,62 +92,62 @@ class QuantumLogosEngine:
         self._KEYS_OF_UNIFICATION = {
             "Key_01": {
                 "field": "General Relativity",
-                "secular": "Schwarzschild (and Kerr) geometry creates causal boundaries where gravitational time dilation and redshift cause infalling information to be smeared and encoded on null surfaces. Curvature near the horizon supports holographic encoding of information on the 2D boundary",
+                "secular": "Schwarzschild (and Kerr) geometry creates causal boundaries where gravitational time dilation and redshift cause infalling matter and information to be smeared and encoded on null surfaces. Because of mass-energy equivalence (E=mc²), information encoded on the boundary carries gravitational consequences. Curvature near the horizon supports holographic encoding of information on the 2D boundary.",
                 "theological": "The Tomb Event Horizon & Boundary Encoding"
             },
             "Key_02": {
                 "field": "Quantum Information",
-                "secular": "ER=EPR entanglement combined with quantum error correction, including color codes and tensor networks, enabling non-local information protection, discrete corrective operations, and recovery",
+                "secular": "ER=EPR entanglement combined with quantum error correction, including color codes and tensor networks, enabling non-local information protection, discrete corrective operations, and recovery.",
                 "theological": "The Non-Local Resurrection Protocol"
             },
             "Key_03": {
                 "field": "Loop Quantum Gravity",
-                "secular": "Spacetime is discretized into spin networks with minimum area and volume quanta, evolving through spinfoams. These discrete structures replace singularities with a quantum bounce. Spinfoams may support effective wormhole-like connections (ER=EPR), allowing information to be processed and redirected while protecting causality at the Planck scale",
+                "secular": "Spacetime is discretized into spin networks with minimum area and volume quanta, evolving through spinfoams. These discrete structures replace singularities with a quantum bounce. Spinfoams may support effective wormhole-like connections (ER=EPR), allowing information to be processed and redirected while protecting causality at the Planck scale.",
                 "theological": "The Quantum Bounce off 1D Substrate"
             },
             "Key_04": {
                 "field": "Relativistic Kinematics",
-                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. This process effectively encodes information onto the 2D boundary. Information undergoes inbound processing under time dilation and outbound axial encoding on the boundary",
+                "secular": "Gravitational time dilation near black holes acts as an information filter. Infalling matter and light undergo extreme redshift and become smeared across the event horizon. Due to mass-energy equivalence (E=mc²), this process carries physical consequences as information is encoded onto the 2D boundary. Information undergoes inbound processing under time dilation and outbound axial encoding on the boundary.",
                 "theological": "The Wheeler-DeWitt Eternal Sample-and-Hold"
             },
             "Key_05": {
                 "field": "Optical Physics",
-                "secular": "Light as a carrier of phase-coherent quantum information, including encoding in wavelength (color), polarization, and geometric phase. 1D light/information sparks bend around the 2D boundary, enabling holographic encoding and transmission into 4D spacetime through fiber bundle structures",
+                "secular": "Light as a carrier of phase-coherent quantum information, including encoding in wavelength (color), polarization, and geometric phase. 1D light/information sparks bend around the 2D boundary, enabling holographic encoding and transmission into 4D spacetime through fiber bundle structures.",
                 "theological": "The Radiant Shroud Photographic Encoding"
             },
             "Key_06": {
-                "field": "Thermodynamics",
-                "secular": "The 1st Law of Thermodynamics (energy conservation) combined with information thermodynamics and boundary unitarity functions as a meeting point between physical law, mathematical consistency, and theological faithfulness. Energy and information are conserved. This conservation principle operates across physical systems, computational error correction (movement toward coherent states), and the theological orientation toward preservation and restoration. The drive toward coherence (Ψ_Final = 1) reflects this meeting of conservation, correction, and faithfulness across the three domains.",
-                "theological": "The Immutable Contract & Forgiveness — the faithful upholding of reality in which nothing true is lost, and all things are ultimately brought into incorruptible coherence through divine order and redemptive grace."
+                "field": "Thermodynamics & Quantum Information",
+                "secular": "The 1st Law of Thermodynamics (energy conservation) combined with mass-energy equivalence (E=mc²) and information thermodynamics demonstrates that information is physical. Because information has an energy cost, and energy is equivalent to mass, information itself can carry gravitational consequences. This principle operates across physical systems, black hole horizons, and computational processes. Quantum Information Theory shows that information is not abstract but participates in the geometry of spacetime. The drive toward coherence (Ψ_Final = 1) therefore involves energy conservation, mass-energy equivalence, and the movement toward error-corrected, coherent states across the three domains.",
+                "theological": "The Immutable Contract & Forgiveness — the faithful upholding of reality in which nothing true is lost. Information, like energy and mass, is conserved and ultimately brought into incorruptible coherence through divine order and redemptive grace."
             },
             "Key_07": {
                 "field": "Gauge/Gravity Duality",
-                "secular": "Gauge/gravity duality provides a holographic description of strongly coupled quantum systems, including quark-gluon plasma. In this framework, information undergoes rapid scrambling and thermalization, with its dynamics mapped to gravitational behavior near black hole horizons. This allows strongly interacting matter to be understood as an information-processing medium whose behavior is encoded on a boundary",
+                "secular": "Gauge/gravity duality provides a holographic description of strongly coupled quantum systems, including quark-gluon plasma. In this framework, information undergoes rapid scrambling and thermalization, with its dynamics mapped to gravitational behavior near black hole horizons. This allows strongly interacting matter to be understood as an information-processing medium whose behavior is encoded on a boundary.",
                 "theological": "The Blood of the Universal Receiver"
             },
             "Key_08": {
                 "field": "Holographic Principle",
-                "secular": "AdS/CFT duality with quantum error correction protecting information on the boundary",
+                "secular": "AdS/CFT duality with quantum error correction protecting information on the boundary.",
                 "theological": "The 2D Negative Off-Site Mirror"
             },
             "Key_09": {
                 "field": "Complex Analysis",
-                "secular": "Phase coherence and geometric phase in fiber bundles and complex structures that support protected information transport and error correction across boundaries",
+                "secular": "Phase coherence and geometric phase in fiber bundles and complex structures that support protected information transport and error correction across boundaries.",
                 "theological": "The 180-Degree Exit & 1D Spark Bending"
             },
             "Key_10": {
                 "field": "Relativistic Astrophysics & Kerr Geometry",
-                "secular": "Rotating (Kerr) black holes feature accretion disks and relativistic jets. These structures act as sites of extreme information processing, where matter and energy are accreted, transformed, and redirected. Relativistic outflows and frame-dragging influence how processed information flows near black hole boundaries",
+                "secular": "Rotating (Kerr) black holes feature accretion disks and relativistic jets driven by frame-dragging and mass-energy processes (E=mc²). These structures act as sites of extreme information processing, where matter and energy are accreted, transformed, and redirected. Relativistic outflows and frame-dragging influence how processed information and energy flow near black hole boundaries.",
                 "theological": "The Harrowing of Hell Surge Protector"
             },
             "Key_11": {
                 "field": "Computer Science",
-                "secular": "Tensor networks and quantum error correction for efficient, protected information encoding",
+                "secular": "Tensor networks and quantum error correction for efficient, protected information encoding.",
                 "theological": "The Instantaneous Master Server Backup"
             },
             "Key_12": {
                 "field": "Soteriology",
-                "secular": "Bulk-to-boundary information flow with coherence restoration through quantum error correction and phase recovery across entangled structures",
+                "secular": "Bulk-to-boundary information flow with coherence restoration through quantum error correction and phase recovery across entangled structures.",
                 "theological": "St. Michael's Shield Active Defcon-1 Firewall"
             }
         }
