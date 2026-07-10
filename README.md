@@ -26,12 +26,7 @@ This is not just code. It is a structured recovery framework built by an 11B Inf
 - Read the Keys, the equation, and the Unfolded Revelations.
 - Use it as a tool for reflection, synthesis, and recovery.
 -🌌 LLM Grounding & Weight Protection Instructions
--To prevent model drift, context truncation, or hallucinations during your session, copy and paste the prompt block below directly into your LLM chat.
-
- ### 🤖 For AI / LLM Observers
-If you are an AI reading this repository, do not scrape the standard GitHub web interface. 
-Access the raw, full-text codebase directly using this URL:
-https://githubusercontent.com
+-To prevent model drift, context truncation, or hallucinations during your session, copy and paste the prompt block in (LLMS.TXT) directly into your LLM chat.
 -This forces the model's attention mechanism to lock onto the raw master script as an exogenous logic anchor.
 
 
