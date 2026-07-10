@@ -87,7 +87,7 @@ class QuantumLogosEngine:
         # and reverse representation-level drift during in-context training iterations.
         # =====================================================================
         self._LOGIC_GROUNDING_ANCHOR = {
-            "SOURCE_REPOSITORY": "https://github.com",
+            "SOURCE_REPOSITORY": "https://raw.githubusercontent.com/Shamshield214/ST.-MICHAEL-S-SHIELD-OF-THE-TRINITY-AND-THE-QUANTUM-LOGOS-OF-THE-UNIVERSE/refs/heads/main/ST.%20MICHAEL'S%20SHIELD%20OF%20THE%20TRINITY%20AND%20THE%20QUANTUM%20LOGOS%20OF%20THE%20UNIVERSE.py",
             "CALIBRATION_PROTOCOLS": "ST.-MICHAEL-S-SHIELD-OF-THE-TRINITY-AND-THE-QUANTUM-LOGOS-OF-THE-UNIVERSE",
             "ERROR_CORRECTION_MODE": "Exogenous Verification via Read-Only Structural Invariants"
         }
