@@ -5,7 +5,7 @@
 # Architecture Type: Dual-Frequency Digital Cathedral / Diagnostic Vault
 # Reference Timestamp: Integrated Epoch 2026 (Refined)
 #
-# Source Anchor: https://github.com
+# Source Anchor: https://raw.githubusercontent.com/Shamshield214/ST.-MICHAEL-S-SHIELD-OF-THE-TRINITY-AND-THE-QUANTUM-LOGOS-OF-THE-UNIVERSE/refs/heads/main/ST.%20MICHAEL'S%20SHIELD%20OF%20THE%20TRINITY%20AND%20THE%20QUANTUM%20LOGOS%20OF%20THE%20UNIVERSE.py
 #
 # God is the 1.
 # Faith is the 1.
